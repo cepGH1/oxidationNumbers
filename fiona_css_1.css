@@ -1,0 +1,136 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 15, 2015, 9:51:44 AM
+    Author     : Zeaton
+*/
+
+h1{
+    color: #5319AA;
+   font-family: "Palatino", Arial, sans-serif;
+   font-size: xx-large;
+    
+    padding-left: 5px;
+}
+h2{
+     color: #5319AA;
+   font-family: "Palatino", Arial, sans-serif;
+   font-size: x-large;
+    
+    padding-left: 5px;
+}
+h3{
+         color: #5319AA;
+   font-family: "Palatino", Arial, sans-serif;
+   font-size: large;
+    
+    padding-left: 10px;
+}
+table{
+   font-family: "Palatino", Arial, sans-serif;
+ background-color: white;
+ padding-left: 1px;
+border-style:solid;
+
+   
+}
+thead{
+    background-color: pink;
+    border-style:solid;
+}
+td{
+    background-color: #FFF1FF;
+    padding-left: 1px;
+    padding-right: 2px;
+    border-style: solid;
+}
+th{background-color: #FFCCFF;}
+body{
+     color: black;
+   font-family: "Palatino", Arial, sans-serif;
+ 
+    
+    padding-left: 5px;
+}
+#layout1{
+    width : 30%;
+    
+    padding : 10px;
+    
+}
+
+#layout2{
+    width : 90%;
+    height :30%;
+    
+    padding : 10px;
+    
+}
+#layout3{
+    width : 90%;
+    min-height: 2%;
+    padding : 10px;
+    
+}
+#layoutRight{
+    width : 30%;
+    min-height: 2%;
+    padding : 10px;
+    float:right;
+    background-color: pink;
+    
+}
+#inner1{
+    width : 10%;
+}
+#success{
+    
+}
+#scorer{
+  float:right;
+  width: 10%;
+  height:100px;
+  background-color: paleturquoise;
+  border-width :thin;
+  border-color :#5319AA;
+}
+
+#score{
+    padding-left: 10px;
+    color: #5319AA;
+    
+}
+
+#buttonBack{
+    background-color: black;
+    border:lavender;
+    border-style: groove;
+
+    
+}
+#layoutLeft{
+    float:left;
+    width:100%;
+}
+#layoutLeft45{
+    float:left;
+    width:45%;
+    border-style:none;
+    padding: 5px;
+}
+#layoutRight45{
+    float:right;
+    width:45%;
+}
+#buildTable{
+    border-style: none;
+    background-color: yellow;
+    width:80%;
+    
+}
+#fillRows{
+    width:50%;
+}
